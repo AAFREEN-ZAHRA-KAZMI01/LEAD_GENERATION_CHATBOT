@@ -1,0 +1,301 @@
+id,title,price(PKR),type,bedrooms,area(sq.yd),location,sector,features,contact,description
+1,Flat in I-8 Sector #64,32022821,Apartment,2,140,I-8,8,"Backup electricity, CCTV",3571331946,Affordable housing with basic amenities
+2,Office Space Jinnah Avenue #58,382610911,Commercial,3,679,Jinnah Avenue,NA,"Fiber internet, conference rooms",3293982640,Grade A office space in central business district
+3,House in Margalla Hills #62,202979407,House,3,618,Margalla Hills,NA,"Mountain view, large garden",3343880323,Luxury hillside property with panoramic views
+4,Affordable Flat F-11 #86,35556696,Apartment,3,173,F-11,4,"Backup generator, mosque nearby",3327123604,Cozy 2-bed apartment near main boulevard
+5,Penthouse DHA Phase 1 #93,214776822,Apartment,1,363,DHA Phase 1,1,"Private terrace, jacuzzi",3020013268,Luxury top-floor unit with city views
+6,Commercial Plaza Blue Area #70,461181179,Commercial,1,815,Blue Area,NA,"Central AC, elevator, parking",3220519591,Prime location commercial space with high foot traffic
+7,Office Space Jinnah Avenue #84,369211940,Commercial,1,747,Jinnah Avenue,NA,"Fiber internet, conference rooms",3411583428,Grade A office space in central business district
+8,Penthouse DHA Phase 1 #74,194969788,Apartment,6,393,DHA Phase 1,1,"Private terrace, jacuzzi",3489737400,Luxury top-floor unit with city views
+9,Plot for Sale E-7 #3,66476196,Plot,NA,233,E-7,NA,"Corner plot, possession certificate",3905917752,Residential plot with clear ownership documents
+10,Plot in DHA Phase 5 #13,80836570,Plot,NA,306,DHA Phase 5,5,"Park facing, approved layout",3321696516,Premium residential plot in gated community
+11,Modern Flat DHA Phase 2 #62,75921141,Apartment,4,247,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3453635247,Spacious 3-bed with modern kitchen and balcony views
+12,Flat in I-8 Sector #7,28844743,Apartment,6,164,I-8,8,"Backup electricity, CCTV",3966726637,Affordable housing with basic amenities
+13,Affordable Flat F-11 #80,31746770,Apartment,3,194,F-11,4,"Backup generator, mosque nearby",3703093797,Cozy 2-bed apartment near main boulevard
+14,Plot in E-11 #95,60954035,Plot,NA,206,E-11,11,"Corner location, approved",3534767659,Residential plot near main sectors
+15,Plot in E-11 #36,48386454,Plot,NA,199,E-11,11,"Corner location, approved",3208908580,Residential plot near main sectors
+16,Plot in DHA Phase 5 #84,76666626,Plot,NA,278,DHA Phase 5,5,"Park facing, approved layout",3489071382,Premium residential plot in gated community
+17,House in Margalla Hills #24,169756966,House,2,543,Margalla Hills,NA,"Mountain view, large garden",3763407473,Luxury hillside property with panoramic views
+18,Office Space Jinnah Avenue #21,368854370,Commercial,2,763,Jinnah Avenue,NA,"Fiber internet, conference rooms",3557476329,Grade A office space in central business district
+19,Flat in I-8 Sector #91,30087326,Apartment,3,155,I-8,8,"Backup electricity, CCTV",3945462766,Affordable housing with basic amenities
+20,Luxury Villa Bahria Town #5,132630197,House,5,733,Bahria Town,8,"Private pool, home theater",3071432180,Ultra-modern villa with smart home features
+21,Plot in E-11 #11,63193119,Plot,NA,193,E-11,11,"Corner location, approved",3473683188,Residential plot near main sectors
+22,Plot in CDA Sector H-8 #4,55935260,Plot,NA,252,H-8,8,Main boulevard access,3792861555,Well-located residential plot
+23,Office Space Jinnah Avenue #67,434193004,Commercial,5,728,Jinnah Avenue,NA,"Fiber internet, conference rooms",3290958088,Grade A office space in central business district
+24,Office Space Jinnah Avenue #86,436446982,Commercial,4,761,Jinnah Avenue,NA,"Fiber internet, conference rooms",3272661474,Grade A office space in central business district
+25,House in F-6 #43,100771232,House,5,365,F-6,6,"Garden, servant quarters",3875263261,Charming older home in premium location
+26,Flat in G-13 #21,24439174,Apartment,1,154,G-13,13,"Backup power, security",3242503438,Budget-friendly option in developing sector
+27,Shop in F-10 Markaz #59,63368103,Commercial,5,128,F-10,10,"Main road frontage, storage area",3832767881,Prime retail space in popular shopping area
+28,Executive Apartment G-11 #39,56570050,Apartment,4,238,G-11,3,"Clubhouse, security, playground",3077629274,Newly constructed with premium finishes
+29,Flat in G-13 #20,30488865,Apartment,3,149,G-13,13,"Backup power, security",3451475910,Budget-friendly option in developing sector
+30,House in Margalla Hills #49,176315551,House,5,655,Margalla Hills,NA,"Mountain view, large garden",3349835799,Luxury hillside property with panoramic views
+31,Agricultural Land Zone 4 #2,22575813,Land,NA,915,Zone 4,NA,"Fertile soil, water access",3984139475,Suitable for farming or development
+32,Showroom in Super Market #73,86543261,Commercial,4,193,Super Market,NA,"High visibility, parking",3818180486,Ideal for retail business in busy market
+33,House in Margalla Hills #90,184625101,House,5,622,Margalla Hills,NA,"Mountain view, large garden",3296119990,Luxury hillside property with panoramic views
+34,Plot in DHA Phase 5 #32,81883427,Plot,NA,306,DHA Phase 5,5,"Park facing, approved layout",3144016672,Premium residential plot in gated community
+35,Modern Flat DHA Phase 2 #50,83534393,Apartment,5,263,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3152410887,Spacious 3-bed with modern kitchen and balcony views
+36,House in F-6 #38,91895911,House,4,323,F-6,6,"Garden, servant quarters",3512634767,Charming older home in premium location
+37,Flat in G-13 #16,27608067,Apartment,5,168,G-13,13,"Backup power, security",3590379528,Budget-friendly option in developing sector
+38,House in F-6 #23,106979972,House,4,353,F-6,6,"Garden, servant quarters",3199292756,Charming older home in premium location
+39,Flat in G-13 #68,30949424,Apartment,6,148,G-13,13,"Backup power, security",3724521860,Budget-friendly option in developing sector
+40,Plot for Sale E-7 #81,56022568,Plot,NA,240,E-7,NA,"Corner plot, possession certificate",3049639999,Residential plot with clear ownership documents
+41,Flat in G-13 #70,25906585,Apartment,3,147,G-13,13,"Backup power, security",3350501466,Budget-friendly option in developing sector
+42,Commercial Plaza Blue Area #93,446531555,Commercial,3,774,Blue Area,NA,"Central AC, elevator, parking",3297879495,Prime location commercial space with high foot traffic
+43,Office Space Jinnah Avenue #60,410564122,Commercial,2,693,Jinnah Avenue,NA,"Fiber internet, conference rooms",3595537969,Grade A office space in central business district
+44,Affordable Flat F-11 #47,37400475,Apartment,6,176,F-11,4,"Backup generator, mosque nearby",3327779863,Cozy 2-bed apartment near main boulevard
+45,Showroom in Super Market #18,88370783,Commercial,5,210,Super Market,NA,"High visibility, parking",3102214900,Ideal for retail business in busy market
+46,Luxury House Bahria Town #2,111462768,House,2,537,Bahria Town,7,"Mention, garden, servant quarters",3930419890,Corner plot house with lush lawn and modern architecture
+47,Flat in I-8 Sector #58,27451079,Apartment,5,138,I-8,8,"Backup electricity, CCTV",3894341531,Affordable housing with basic amenities
+48,Plot for Sale E-7 #98,65420207,Plot,NA,257,E-7,NA,"Corner plot, possession certificate",3256478050,Residential plot with clear ownership documents
+49,House in Margalla Hills #94,196424307,House,1,654,Margalla Hills,NA,"Mountain view, large garden",3932708847,Luxury hillside property with panoramic views
+50,Executive Apartment G-11 #30,54324741,Apartment,5,218,G-11,3,"Clubhouse, security, playground",3060333637,Newly constructed with premium finishes
+51,Executive Apartment G-11 #16,57236120,Apartment,3,212,G-11,3,"Clubhouse, security, playground",3683064743,Newly constructed with premium finishes
+52,Shop in F-10 Markaz #53,69572691,Commercial,3,123,F-10,10,"Main road frontage, storage area",3111496212,Prime retail space in popular shopping area
+53,Flat in I-8 Sector #29,27480114,Apartment,5,149,I-8,8,"Backup electricity, CCTV",3932397026,Affordable housing with basic amenities
+54,Showroom in Super Market #11,83693670,Commercial,6,214,Super Market,NA,"High visibility, parking",3345316791,Ideal for retail business in busy market
+55,Office Space Jinnah Avenue #28,383493048,Commercial,6,748,Jinnah Avenue,NA,"Fiber internet, conference rooms",3555113701,Grade A office space in central business district
+56,Executive Apartment G-11 #30,52903464,Apartment,5,209,G-11,3,"Clubhouse, security, playground",3346110258,Newly constructed with premium finishes
+57,Flat in G-13 #14,31606509,Apartment,6,150,G-13,13,"Backup power, security",3530681186,Budget-friendly option in developing sector
+58,Flat in G-13 #30,29135501,Apartment,3,169,G-13,13,"Backup power, security",3018831224,Budget-friendly option in developing sector
+59,Modern Flat DHA Phase 2 #94,93369329,Apartment,6,262,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3267297782,Spacious 3-bed with modern kitchen and balcony views
+60,Agricultural Land Zone 4 #41,28164425,Land,NA,1089,Zone 4,NA,"Fertile soil, water access",3116463430,Suitable for farming or development
+61,Luxury Villa Bahria Town #87,164754692,House,4,698,Bahria Town,8,"Private pool, home theater",3172717356,Ultra-modern villa with smart home features
+62,Luxury Villa Bahria Town #75,148616142,House,6,632,Bahria Town,8,"Private pool, home theater",3460571237,Ultra-modern villa with smart home features
+63,Flat in I-8 Sector #6,31980944,Apartment,3,138,I-8,8,"Backup electricity, CCTV",3648178378,Affordable housing with basic amenities
+64,Executive Apartment G-11 #86,57240567,Apartment,2,214,G-11,3,"Clubhouse, security, playground",3527036164,Newly constructed with premium finishes
+65,Penthouse DHA Phase 1 #45,209437500,Apartment,1,399,DHA Phase 1,1,"Private terrace, jacuzzi",3114363879,Luxury top-floor unit with city views
+66,Flat in G-13 #51,30374944,Apartment,2,160,G-13,13,"Backup power, security",3768649540,Budget-friendly option in developing sector
+67,Flat in G-13 #61,26216255,Apartment,5,147,G-13,13,"Backup power, security",3273640427,Budget-friendly option in developing sector
+68,Executive Apartment G-11 #16,57399289,Apartment,4,220,G-11,3,"Clubhouse, security, playground",3486456356,Newly constructed with premium finishes
+69,Apartment in F-7 #85,52876098,Apartment,1,174,F-7,7,"Laundry, gym, parking",3072733779,Well-maintained building near diplomatic enclave
+70,Showroom in Super Market #16,78578526,Commercial,3,204,Super Market,NA,"High visibility, parking",3953934788,Ideal for retail business in busy market
+71,Plot in E-11 #39,52280523,Plot,NA,211,E-11,11,"Corner location, approved",3913846254,Residential plot near main sectors
+72,Commercial Plaza Blue Area #97,392390069,Commercial,4,771,Blue Area,NA,"Central AC, elevator, parking",3295737701,Prime location commercial space with high foot traffic
+73,House in Margalla Hills #30,181870758,House,5,628,Margalla Hills,NA,"Mountain view, large garden",3311501876,Luxury hillside property with panoramic views
+74,Plot in CDA Sector H-8 #72,66583427,Plot,NA,244,H-8,8,Main boulevard access,3308515679,Well-located residential plot
+75,Plot in E-11 #79,52979624,Plot,NA,213,E-11,11,"Corner location, approved",3620000634,Residential plot near main sectors
+76,House in F-6 #85,80798535,House,3,345,F-6,6,"Garden, servant quarters",3360875873,Charming older home in premium location
+77,Plot in CDA Sector H-8 #64,52139793,Plot,NA,229,H-8,8,Main boulevard access,3547599060,Well-located residential plot
+78,Penthouse DHA Phase 1 #33,223857533,Apartment,4,422,DHA Phase 1,1,"Private terrace, jacuzzi",3560955404,Luxury top-floor unit with city views
+79,Office Space Jinnah Avenue #2,425599653,Commercial,2,708,Jinnah Avenue,NA,"Fiber internet, conference rooms",3017435137,Grade A office space in central business district
+80,Modern Flat DHA Phase 2 #63,84440210,Apartment,4,249,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3646525923,Spacious 3-bed with modern kitchen and balcony views
+81,Luxury House Bahria Town #86,118985750,House,2,516,Bahria Town,7,"Mention, garden, servant quarters",3691330113,Corner plot house with lush lawn and modern architecture
+82,Plot for Sale E-7 #15,66753604,Plot,NA,225,E-7,NA,"Corner plot, possession certificate",3063059754,Residential plot with clear ownership documents
+83,Plot in E-11 #9,60907962,Plot,NA,213,E-11,11,"Corner location, approved",3738839291,Residential plot near main sectors
+84,Showroom in Super Market #92,73368181,Commercial,3,184,Super Market,NA,"High visibility, parking",3206893470,Ideal for retail business in busy market
+85,Flat in G-13 #54,25534198,Apartment,5,159,G-13,13,"Backup power, security",3790501604,Budget-friendly option in developing sector
+86,Executive Apartment G-11 #15,48383343,Apartment,5,225,G-11,3,"Clubhouse, security, playground",3432547758,Newly constructed with premium finishes
+87,Flat in G-13 #61,29107552,Apartment,4,146,G-13,13,"Backup power, security",3826299993,Budget-friendly option in developing sector
+88,Shop in F-10 Markaz #49,57652776,Commercial,6,108,F-10,10,"Main road frontage, storage area",3754899967,Prime retail space in popular shopping area
+89,Shop in F-10 Markaz #19,58663642,Commercial,4,108,F-10,10,"Main road frontage, storage area",3358401865,Prime retail space in popular shopping area
+90,Office Space Jinnah Avenue #86,338867718,Commercial,1,748,Jinnah Avenue,NA,"Fiber internet, conference rooms",3224878104,Grade A office space in central business district
+91,Modern Flat DHA Phase 2 #58,72573808,Apartment,4,268,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3501010478,Spacious 3-bed with modern kitchen and balcony views
+92,Shop in F-10 Markaz #44,73193553,Commercial,3,113,F-10,10,"Main road frontage, storage area",3433057509,Prime retail space in popular shopping area
+93,Apartment in F-7 #6,53887021,Apartment,3,193,F-7,7,"Laundry, gym, parking",3515316431,Well-maintained building near diplomatic enclave
+94,Modern Flat DHA Phase 2 #13,80459410,Apartment,2,250,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3883860925,Spacious 3-bed with modern kitchen and balcony views
+95,Apartment in F-7 #19,50692789,Apartment,4,182,F-7,7,"Laundry, gym, parking",3123509659,Well-maintained building near diplomatic enclave
+96,Luxury Villa Bahria Town #28,146891527,House,5,756,Bahria Town,8,"Private pool, home theater",3015463343,Ultra-modern villa with smart home features
+97,Affordable Flat F-11 #23,37170117,Apartment,4,183,F-11,4,"Backup generator, mosque nearby",3535044096,Cozy 2-bed apartment near main boulevard
+98,Plot for Sale E-7 #43,70084633,Plot,NA,242,E-7,NA,"Corner plot, possession certificate",3155050904,Residential plot with clear ownership documents
+99,Plot in E-11 #20,53632307,Plot,NA,211,E-11,11,"Corner location, approved",3359668449,Residential plot near main sectors
+100,Office Space Jinnah Avenue #94,415043867,Commercial,2,778,Jinnah Avenue,NA,"Fiber internet, conference rooms",3801956975,Grade A office space in central business district
+101,Shop in F-10 Markaz #38,55685099,Commercial,2,126,F-10,10,"Main road frontage, storage area",3014601451,Prime retail space in popular shopping area
+102,Apartment in F-7 #1,52374378,Apartment,5,188,F-7,7,"Laundry, gym, parking",3201278295,Well-maintained building near diplomatic enclave
+103,Flat in G-13 #28,27627281,Apartment,6,146,G-13,13,"Backup power, security",3232642947,Budget-friendly option in developing sector
+104,Luxury Villa Bahria Town #63,167875323,House,2,660,Bahria Town,8,"Private pool, home theater",3885899138,Ultra-modern villa with smart home features
+105,Penthouse DHA Phase 1 #72,210062343,Apartment,4,409,DHA Phase 1,1,"Private terrace, jacuzzi",3709983439,Luxury top-floor unit with city views
+106,House in F-6 #13,85143792,House,1,372,F-6,6,"Garden, servant quarters",3386242108,Charming older home in premium location
+107,Apartment in F-7 #80,46082665,Apartment,6,205,F-7,7,"Laundry, gym, parking",3006310120,Well-maintained building near diplomatic enclave
+108,Plot in E-11 #13,62643455,Plot,NA,202,E-11,11,"Corner location, approved",3815220973,Residential plot near main sectors
+109,Shop in F-10 Markaz #57,67310763,Commercial,5,122,F-10,10,"Main road frontage, storage area",3399643773,Prime retail space in popular shopping area
+110,Commercial Plaza Blue Area #33,508808315,Commercial,1,787,Blue Area,NA,"Central AC, elevator, parking",3774218739,Prime location commercial space with high foot traffic
+111,Luxury Villa Bahria Town #14,170574748,House,3,697,Bahria Town,8,"Private pool, home theater",3382124731,Ultra-modern villa with smart home features
+112,House in F-6 #83,98750208,House,2,326,F-6,6,"Garden, servant quarters",3655034883,Charming older home in premium location
+113,Modern Flat DHA Phase 2 #18,84862455,Apartment,6,263,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3407648548,Spacious 3-bed with modern kitchen and balcony views
+114,Flat in G-13 #4,27745043,Apartment,1,152,G-13,13,"Backup power, security",3963869840,Budget-friendly option in developing sector
+115,Plot in CDA Sector H-8 #6,65603288,Plot,NA,230,H-8,8,Main boulevard access,3752828764,Well-located residential plot
+116,Commercial Plaza Blue Area #11,447605688,Commercial,3,780,Blue Area,NA,"Central AC, elevator, parking",3505623800,Prime location commercial space with high foot traffic
+117,House in Margalla Hills #100,169883132,House,2,625,Margalla Hills,NA,"Mountain view, large garden",3517729623,Luxury hillside property with panoramic views
+118,Plot in E-11 #72,51398988,Plot,NA,208,E-11,11,"Corner location, approved",3906051649,Residential plot near main sectors
+119,Flat in I-8 Sector #23,30323237,Apartment,1,145,I-8,8,"Backup electricity, CCTV",3768078450,Affordable housing with basic amenities
+120,House in F-6 #29,108225015,House,5,326,F-6,6,"Garden, servant quarters",3260898084,Charming older home in premium location
+121,Showroom in Super Market #57,82726702,Commercial,5,214,Super Market,NA,"High visibility, parking",3125305473,Ideal for retail business in busy market
+122,Apartment in F-7 #93,49641864,Apartment,3,174,F-7,7,"Laundry, gym, parking",3881105903,Well-maintained building near diplomatic enclave
+123,Shop in F-10 Markaz #4,59049146,Commercial,5,121,F-10,10,"Main road frontage, storage area",3656081754,Prime retail space in popular shopping area
+124,Penthouse DHA Phase 1 #88,211173778,Apartment,3,432,DHA Phase 1,1,"Private terrace, jacuzzi",3989303095,Luxury top-floor unit with city views
+125,House in Margalla Hills #60,195413449,House,3,546,Margalla Hills,NA,"Mountain view, large garden",3163397376,Luxury hillside property with panoramic views
+126,House in Margalla Hills #41,184688253,House,5,619,Margalla Hills,NA,"Mountain view, large garden",3238812449,Luxury hillside property with panoramic views
+127,Plot in DHA Phase 5 #18,73148282,Plot,NA,272,DHA Phase 5,5,"Park facing, approved layout",3625564645,Premium residential plot in gated community
+128,Affordable Flat F-11 #17,35526249,Apartment,1,192,F-11,4,"Backup generator, mosque nearby",3596888418,Cozy 2-bed apartment near main boulevard
+129,Luxury Villa Bahria Town #64,140293312,House,5,635,Bahria Town,8,"Private pool, home theater",3966598813,Ultra-modern villa with smart home features
+130,Flat in I-8 Sector #8,34292022,Apartment,6,138,I-8,8,"Backup electricity, CCTV",3350825219,Affordable housing with basic amenities
+131,Plot in CDA Sector H-8 #17,55255310,Plot,NA,265,H-8,8,Main boulevard access,3613934110,Well-located residential plot
+132,Executive Apartment G-11 #41,57637587,Apartment,6,236,G-11,3,"Clubhouse, security, playground",3057574205,Newly constructed with premium finishes
+133,Plot for Sale E-7 #93,58837188,Plot,NA,247,E-7,NA,"Corner plot, possession certificate",3690636582,Residential plot with clear ownership documents
+134,Luxury House Bahria Town #56,107675165,House,5,509,Bahria Town,7,"Mention, garden, servant quarters",3278917947,Corner plot house with lush lawn and modern architecture
+135,Flat in G-13 #50,26422143,Apartment,1,152,G-13,13,"Backup power, security",3271025042,Budget-friendly option in developing sector
+136,Shop in F-10 Markaz #72,60548697,Commercial,5,126,F-10,10,"Main road frontage, storage area",3960730088,Prime retail space in popular shopping area
+137,Shop in F-10 Markaz #56,56807694,Commercial,6,124,F-10,10,"Main road frontage, storage area",3018242091,Prime retail space in popular shopping area
+138,Modern Flat DHA Phase 2 #1,90299780,Apartment,1,242,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3620715656,Spacious 3-bed with modern kitchen and balcony views
+139,Agricultural Land Zone 4 #77,22131588,Land,NA,1064,Zone 4,NA,"Fertile soil, water access",3699651561,Suitable for farming or development
+140,Apartment in F-7 #98,51643030,Apartment,6,184,F-7,7,"Laundry, gym, parking",3978703132,Well-maintained building near diplomatic enclave
+141,Plot in CDA Sector H-8 #42,57235093,Plot,NA,247,H-8,8,Main boulevard access,3030843602,Well-located residential plot
+142,Office Space Jinnah Avenue #67,328451588,Commercial,5,821,Jinnah Avenue,NA,"Fiber internet, conference rooms",3190505065,Grade A office space in central business district
+143,Showroom in Super Market #40,95266470,Commercial,2,212,Super Market,NA,"High visibility, parking",3463296998,Ideal for retail business in busy market
+144,Plot in DHA Phase 5 #93,65146736,Plot,NA,286,DHA Phase 5,5,"Park facing, approved layout",3177272444,Premium residential plot in gated community
+145,Luxury House Bahria Town #41,103896656,House,3,528,Bahria Town,7,"Mention, garden, servant quarters",3710764909,Corner plot house with lush lawn and modern architecture
+146,Luxury House Bahria Town #9,116062096,House,3,493,Bahria Town,7,"Mention, garden, servant quarters",3525077383,Corner plot house with lush lawn and modern architecture
+147,Plot in CDA Sector H-8 #19,53812835,Plot,NA,268,H-8,8,Main boulevard access,3411980278,Well-located residential plot
+148,Flat in G-13 #12,27749317,Apartment,1,165,G-13,13,"Backup power, security",3082934864,Budget-friendly option in developing sector
+149,House in Margalla Hills #83,166593681,House,4,561,Margalla Hills,NA,"Mountain view, large garden",3071231098,Luxury hillside property with panoramic views
+150,Flat in I-8 Sector #46,27395353,Apartment,5,140,I-8,8,"Backup electricity, CCTV",3240364743,Affordable housing with basic amenities
+151,Plot in CDA Sector H-8 #62,54921458,Plot,NA,262,H-8,8,Main boulevard access,3802337776,Well-located residential plot
+152,Commercial Plaza Blue Area #4,469318400,Commercial,5,736,Blue Area,NA,"Central AC, elevator, parking",3859858459,Prime location commercial space with high foot traffic
+153,Shop in F-10 Markaz #80,73388010,Commercial,5,119,F-10,10,"Main road frontage, storage area",3261246255,Prime retail space in popular shopping area
+154,Luxury Villa Bahria Town #43,164621147,House,5,720,Bahria Town,8,"Private pool, home theater",3122957112,Ultra-modern villa with smart home features
+155,Agricultural Land Zone 4 #15,26671514,Land,NA,1097,Zone 4,NA,"Fertile soil, water access",3783693520,Suitable for farming or development
+156,Luxury Villa Bahria Town #16,153229140,House,6,631,Bahria Town,8,"Private pool, home theater",3562150555,Ultra-modern villa with smart home features
+157,Commercial Plaza Blue Area #1,425814739,Commercial,3,860,Blue Area,NA,"Central AC, elevator, parking",3240252267,Prime location commercial space with high foot traffic
+158,Plot in E-11 #3,57759729,Plot,NA,201,E-11,11,"Corner location, approved",3218547692,Residential plot near main sectors
+159,Shop in F-10 Markaz #61,74730084,Commercial,6,118,F-10,10,"Main road frontage, storage area",3507435601,Prime retail space in popular shopping area
+160,Showroom in Super Market #54,88968192,Commercial,6,185,Super Market,NA,"High visibility, parking",3725243793,Ideal for retail business in busy market
+161,House in F-6 #3,82082900,House,5,377,F-6,6,"Garden, servant quarters",3682450623,Charming older home in premium location
+162,Plot in E-11 #35,52334225,Plot,NA,197,E-11,11,"Corner location, approved",3967310794,Residential plot near main sectors
+163,Plot for Sale E-7 #35,70002830,Plot,NA,243,E-7,NA,"Corner plot, possession certificate",3559268699,Residential plot with clear ownership documents
+164,Commercial Plaza Blue Area #1,466833181,Commercial,3,742,Blue Area,NA,"Central AC, elevator, parking",3134660263,Prime location commercial space with high foot traffic
+165,Flat in I-8 Sector #28,28160974,Apartment,6,157,I-8,8,"Backup electricity, CCTV",3129599155,Affordable housing with basic amenities
+166,Modern Flat DHA Phase 2 #99,83019163,Apartment,6,269,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3402118197,Spacious 3-bed with modern kitchen and balcony views
+167,Penthouse DHA Phase 1 #77,219469568,Apartment,1,416,DHA Phase 1,1,"Private terrace, jacuzzi",3101553600,Luxury top-floor unit with city views
+168,Commercial Plaza Blue Area #27,428679353,Commercial,4,761,Blue Area,NA,"Central AC, elevator, parking",3249991846,Prime location commercial space with high foot traffic
+169,Modern Flat DHA Phase 2 #32,88811284,Apartment,5,259,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3439402606,Spacious 3-bed with modern kitchen and balcony views
+170,Shop in F-10 Markaz #69,65892527,Commercial,4,131,F-10,10,"Main road frontage, storage area",3239395706,Prime retail space in popular shopping area
+171,Plot in CDA Sector H-8 #85,65166992,Plot,NA,267,H-8,8,Main boulevard access,3239611271,Well-located residential plot
+172,House in F-6 #71,104337895,House,1,382,F-6,6,"Garden, servant quarters",3597004175,Charming older home in premium location
+173,Penthouse DHA Phase 1 #31,189628501,Apartment,2,436,DHA Phase 1,1,"Private terrace, jacuzzi",3303344734,Luxury top-floor unit with city views
+174,Shop in F-10 Markaz #38,61326630,Commercial,5,128,F-10,10,"Main road frontage, storage area",3070124382,Prime retail space in popular shopping area
+175,Apartment in F-7 #79,51146111,Apartment,4,171,F-7,7,"Laundry, gym, parking",3059745166,Well-maintained building near diplomatic enclave
+176,House in F-6 #20,88457782,House,6,329,F-6,6,"Garden, servant quarters",3747168613,Charming older home in premium location
+177,Plot in E-11 #86,47517382,Plot,NA,215,E-11,11,"Corner location, approved",3094932822,Residential plot near main sectors
+178,Flat in G-13 #99,30429686,Apartment,4,174,G-13,13,"Backup power, security",3473750590,Budget-friendly option in developing sector
+179,Shop in F-10 Markaz #26,64778374,Commercial,2,110,F-10,10,"Main road frontage, storage area",3030773402,Prime retail space in popular shopping area
+180,Modern Flat DHA Phase 2 #78,96399883,Apartment,5,227,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3948711529,Spacious 3-bed with modern kitchen and balcony views
+181,Executive Apartment G-11 #14,49156017,Apartment,6,240,G-11,3,"Clubhouse, security, playground",3762236322,Newly constructed with premium finishes
+182,Plot in CDA Sector H-8 #28,63138454,Plot,NA,246,H-8,8,Main boulevard access,3407522658,Well-located residential plot
+183,Plot in CDA Sector H-8 #88,66711040,Plot,NA,269,H-8,8,Main boulevard access,3719358726,Well-located residential plot
+184,Commercial Plaza Blue Area #57,448156997,Commercial,3,779,Blue Area,NA,"Central AC, elevator, parking",3513430143,Prime location commercial space with high foot traffic
+185,Plot for Sale E-7 #60,55598543,Plot,NA,248,E-7,NA,"Corner plot, possession certificate",3076167255,Residential plot with clear ownership documents
+186,House in Margalla Hills #75,168074294,House,1,628,Margalla Hills,NA,"Mountain view, large garden",3645181305,Luxury hillside property with panoramic views
+187,Affordable Flat F-11 #81,31798032,Apartment,1,195,F-11,4,"Backup generator, mosque nearby",3422731288,Cozy 2-bed apartment near main boulevard
+188,Luxury House Bahria Town #68,107174776,House,6,516,Bahria Town,7,"Mention, garden, servant quarters",3058971892,Corner plot house with lush lawn and modern architecture
+189,House in F-6 #71,88517321,House,6,342,F-6,6,"Garden, servant quarters",3512916245,Charming older home in premium location
+190,Penthouse DHA Phase 1 #49,225563466,Apartment,5,432,DHA Phase 1,1,"Private terrace, jacuzzi",3847661677,Luxury top-floor unit with city views
+191,Affordable Flat F-11 #53,33487677,Apartment,4,188,F-11,4,"Backup generator, mosque nearby",3091323935,Cozy 2-bed apartment near main boulevard
+192,Showroom in Super Market #92,88718440,Commercial,1,217,Super Market,NA,"High visibility, parking",3700074246,Ideal for retail business in busy market
+193,Modern Flat DHA Phase 2 #84,79773092,Apartment,1,250,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3915434930,Spacious 3-bed with modern kitchen and balcony views
+194,Flat in G-13 #95,27249340,Apartment,5,166,G-13,13,"Backup power, security",3775514907,Budget-friendly option in developing sector
+195,Flat in G-13 #17,28941130,Apartment,3,159,G-13,13,"Backup power, security",3988707412,Budget-friendly option in developing sector
+196,Office Space Jinnah Avenue #88,396948272,Commercial,2,819,Jinnah Avenue,NA,"Fiber internet, conference rooms",3164319323,Grade A office space in central business district
+197,Plot in E-11 #90,50173973,Plot,NA,192,E-11,11,"Corner location, approved",3424411499,Residential plot near main sectors
+198,Office Space Jinnah Avenue #97,403172684,Commercial,4,688,Jinnah Avenue,NA,"Fiber internet, conference rooms",3794435657,Grade A office space in central business district
+199,Shop in F-10 Markaz #83,72100361,Commercial,4,119,F-10,10,"Main road frontage, storage area",3565126202,Prime retail space in popular shopping area
+200,House in F-6 #94,85244041,House,3,383,F-6,6,"Garden, servant quarters",3469481953,Charming older home in premium location
+201,Office Space Jinnah Avenue #6,391364011,Commercial,2,772,Jinnah Avenue,NA,"Fiber internet, conference rooms",3489390771,Grade A office space in central business district
+202,Flat in I-8 Sector #78,32139141,Apartment,3,148,I-8,8,"Backup electricity, CCTV",3721700814,Affordable housing with basic amenities
+203,Agricultural Land Zone 4 #66,27533098,Land,NA,1099,Zone 4,NA,"Fertile soil, water access",3390103269,Suitable for farming or development
+204,Modern Flat DHA Phase 2 #74,80282817,Apartment,5,262,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3758941335,Spacious 3-bed with modern kitchen and balcony views
+205,Luxury House Bahria Town #9,102968140,House,5,459,Bahria Town,7,"Mention, garden, servant quarters",3652257983,Corner plot house with lush lawn and modern architecture
+206,Executive Apartment G-11 #27,61693939,Apartment,3,221,G-11,3,"Clubhouse, security, playground",3388319622,Newly constructed with premium finishes
+207,Office Space Jinnah Avenue #67,332762624,Commercial,6,724,Jinnah Avenue,NA,"Fiber internet, conference rooms",3896703505,Grade A office space in central business district
+208,Flat in G-13 #50,29165563,Apartment,6,157,G-13,13,"Backup power, security",3312182508,Budget-friendly option in developing sector
+209,Luxury House Bahria Town #69,136080364,House,5,482,Bahria Town,7,"Mention, garden, servant quarters",3418684436,Corner plot house with lush lawn and modern architecture
+210,Penthouse DHA Phase 1 #68,208324115,Apartment,5,414,DHA Phase 1,1,"Private terrace, jacuzzi",3077778615,Luxury top-floor unit with city views
+211,Agricultural Land Zone 4 #28,25777294,Land,NA,1067,Zone 4,NA,"Fertile soil, water access",3313207960,Suitable for farming or development
+212,Office Space Jinnah Avenue #8,357633929,Commercial,5,718,Jinnah Avenue,NA,"Fiber internet, conference rooms",3160101937,Grade A office space in central business district
+213,Plot in E-11 #4,50634121,Plot,NA,205,E-11,11,"Corner location, approved",3996535001,Residential plot near main sectors
+214,Flat in G-13 #73,29670999,Apartment,3,167,G-13,13,"Backup power, security",3712476159,Budget-friendly option in developing sector
+215,House in F-6 #36,87598618,House,2,382,F-6,6,"Garden, servant quarters",3876418814,Charming older home in premium location
+216,Apartment in F-7 #66,52791850,Apartment,5,181,F-7,7,"Laundry, gym, parking",3875639523,Well-maintained building near diplomatic enclave
+217,Flat in G-13 #92,26899850,Apartment,5,173,G-13,13,"Backup power, security",3700938802,Budget-friendly option in developing sector
+218,Agricultural Land Zone 4 #24,22559147,Land,NA,930,Zone 4,NA,"Fertile soil, water access",3443563609,Suitable for farming or development
+219,House in F-6 #97,91504165,House,4,359,F-6,6,"Garden, servant quarters",3783592036,Charming older home in premium location
+220,Apartment in F-7 #65,53487320,Apartment,1,179,F-7,7,"Laundry, gym, parking",3581060536,Well-maintained building near diplomatic enclave
+221,Executive Apartment G-11 #24,55237135,Apartment,2,235,G-11,3,"Clubhouse, security, playground",3592134660,Newly constructed with premium finishes
+222,Affordable Flat F-11 #36,36753572,Apartment,6,165,F-11,4,"Backup generator, mosque nearby",3739092259,Cozy 2-bed apartment near main boulevard
+223,Plot in CDA Sector H-8 #53,65976576,Plot,NA,255,H-8,8,Main boulevard access,3619755258,Well-located residential plot
+224,Shop in F-10 Markaz #23,67416821,Commercial,5,121,F-10,10,"Main road frontage, storage area",3323371227,Prime retail space in popular shopping area
+225,Plot in CDA Sector H-8 #17,52613450,Plot,NA,245,H-8,8,Main boulevard access,3554078798,Well-located residential plot
+226,Agricultural Land Zone 4 #68,23057352,Land,NA,1023,Zone 4,NA,"Fertile soil, water access",3024131321,Suitable for farming or development
+227,Luxury Villa Bahria Town #61,132546135,House,2,663,Bahria Town,8,"Private pool, home theater",3615803343,Ultra-modern villa with smart home features
+228,Luxury Villa Bahria Town #37,159840722,House,6,697,Bahria Town,8,"Private pool, home theater",3567289652,Ultra-modern villa with smart home features
+229,Affordable Flat F-11 #23,40213035,Apartment,6,170,F-11,4,"Backup generator, mosque nearby",3947022037,Cozy 2-bed apartment near main boulevard
+230,Plot in E-11 #64,50639963,Plot,NA,200,E-11,11,"Corner location, approved",3489478672,Residential plot near main sectors
+231,Shop in F-10 Markaz #84,74722062,Commercial,2,131,F-10,10,"Main road frontage, storage area",3716930029,Prime retail space in popular shopping area
+232,House in Margalla Hills #22,204350400,House,4,591,Margalla Hills,NA,"Mountain view, large garden",3297935769,Luxury hillside property with panoramic views
+233,Plot in DHA Phase 5 #90,70386972,Plot,NA,322,DHA Phase 5,5,"Park facing, approved layout",3567370505,Premium residential plot in gated community
+234,Modern Flat DHA Phase 2 #51,75794898,Apartment,3,265,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3055749428,Spacious 3-bed with modern kitchen and balcony views
+235,Plot in E-11 #44,50420864,Plot,NA,216,E-11,11,"Corner location, approved",3539102038,Residential plot near main sectors
+236,Modern Flat DHA Phase 2 #52,81727365,Apartment,5,250,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3883650975,Spacious 3-bed with modern kitchen and balcony views
+237,Plot in DHA Phase 5 #73,82768376,Plot,NA,326,DHA Phase 5,5,"Park facing, approved layout",3796978275,Premium residential plot in gated community
+238,Flat in I-8 Sector #18,28330860,Apartment,6,141,I-8,8,"Backup electricity, CCTV",3044481563,Affordable housing with basic amenities
+239,Plot in E-11 #19,50902055,Plot,NA,219,E-11,11,"Corner location, approved",3925980677,Residential plot near main sectors
+240,Modern Flat DHA Phase 2 #66,86551488,Apartment,1,238,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3334165807,Spacious 3-bed with modern kitchen and balcony views
+241,Flat in G-13 #44,26603958,Apartment,6,169,G-13,13,"Backup power, security",3777033430,Budget-friendly option in developing sector
+242,Agricultural Land Zone 4 #27,25495111,Land,NA,981,Zone 4,NA,"Fertile soil, water access",3177252510,Suitable for farming or development
+243,Luxury Villa Bahria Town #69,131514006,House,1,670,Bahria Town,8,"Private pool, home theater",3509700907,Ultra-modern villa with smart home features
+244,Executive Apartment G-11 #17,55577578,Apartment,1,233,G-11,3,"Clubhouse, security, playground",3348577346,Newly constructed with premium finishes
+245,Executive Apartment G-11 #19,61174401,Apartment,3,216,G-11,3,"Clubhouse, security, playground",3000678745,Newly constructed with premium finishes
+246,Luxury House Bahria Town #5,110205288,House,5,539,Bahria Town,7,"Mention, garden, servant quarters",3673825435,Corner plot house with lush lawn and modern architecture
+247,Affordable Flat F-11 #58,30490216,Apartment,2,192,F-11,4,"Backup generator, mosque nearby",3660931079,Cozy 2-bed apartment near main boulevard
+248,Modern Flat DHA Phase 2 #100,80423413,Apartment,2,256,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3431516817,Spacious 3-bed with modern kitchen and balcony views
+249,House in F-6 #69,92489346,House,2,320,F-6,6,"Garden, servant quarters",3431234118,Charming older home in premium location
+250,Shop in F-10 Markaz #24,71237233,Commercial,2,110,F-10,10,"Main road frontage, storage area",3011451379,Prime retail space in popular shopping area
+251,Luxury House Bahria Town #29,120942544,House,4,497,Bahria Town,7,"Mention, garden, servant quarters",3406987203,Corner plot house with lush lawn and modern architecture
+252,Showroom in Super Market #13,95433592,Commercial,5,218,Super Market,NA,"High visibility, parking",3557629421,Ideal for retail business in busy market
+253,Plot in E-11 #86,51510201,Plot,NA,203,E-11,11,"Corner location, approved",3071592339,Residential plot near main sectors
+254,Plot in CDA Sector H-8 #3,51909844,Plot,NA,274,H-8,8,Main boulevard access,3761808013,Well-located residential plot
+255,Penthouse DHA Phase 1 #14,201924912,Apartment,1,416,DHA Phase 1,1,"Private terrace, jacuzzi",3201435004,Luxury top-floor unit with city views
+256,Plot in DHA Phase 5 #99,73015694,Plot,NA,309,DHA Phase 5,5,"Park facing, approved layout",3068307512,Premium residential plot in gated community
+257,Office Space Jinnah Avenue #41,375803221,Commercial,4,743,Jinnah Avenue,NA,"Fiber internet, conference rooms",3248458863,Grade A office space in central business district
+258,Luxury House Bahria Town #89,118094256,House,2,497,Bahria Town,7,"Mention, garden, servant quarters",3516315276,Corner plot house with lush lawn and modern architecture
+259,Flat in I-8 Sector #75,32024909,Apartment,3,137,I-8,8,"Backup electricity, CCTV",3827588607,Affordable housing with basic amenities
+260,House in F-6 #16,103697545,House,3,315,F-6,6,"Garden, servant quarters",3403521217,Charming older home in premium location
+261,Office Space Jinnah Avenue #3,338028270,Commercial,3,794,Jinnah Avenue,NA,"Fiber internet, conference rooms",3012258696,Grade A office space in central business district
+262,Plot in E-11 #60,51050942,Plot,NA,219,E-11,11,"Corner location, approved",3306426533,Residential plot near main sectors
+263,Plot in CDA Sector H-8 #19,63997776,Plot,NA,250,H-8,8,Main boulevard access,3320849253,Well-located residential plot
+264,Luxury House Bahria Town #8,123103291,House,3,458,Bahria Town,7,"Mention, garden, servant quarters",3588490836,Corner plot house with lush lawn and modern architecture
+265,Flat in I-8 Sector #67,25679103,Apartment,5,136,I-8,8,"Backup electricity, CCTV",3019150416,Affordable housing with basic amenities
+266,Showroom in Super Market #38,95506084,Commercial,3,181,Super Market,NA,"High visibility, parking",3973453770,Ideal for retail business in busy market
+267,Flat in I-8 Sector #6,33994941,Apartment,4,154,I-8,8,"Backup electricity, CCTV",3134249829,Affordable housing with basic amenities
+268,Flat in I-8 Sector #96,25991053,Apartment,3,148,I-8,8,"Backup electricity, CCTV",3565055599,Affordable housing with basic amenities
+269,Commercial Plaza Blue Area #88,466630788,Commercial,5,879,Blue Area,NA,"Central AC, elevator, parking",3361579471,Prime location commercial space with high foot traffic
+270,Luxury Villa Bahria Town #68,168730685,House,3,677,Bahria Town,8,"Private pool, home theater",3643854552,Ultra-modern villa with smart home features
+271,Flat in G-13 #76,31944010,Apartment,2,173,G-13,13,"Backup power, security",3840815685,Budget-friendly option in developing sector
+272,House in F-6 #21,103294955,House,5,363,F-6,6,"Garden, servant quarters",3298051454,Charming older home in premium location
+273,Flat in G-13 #63,25327097,Apartment,1,158,G-13,13,"Backup power, security",3603636944,Budget-friendly option in developing sector
+274,Apartment in F-7 #58,48573276,Apartment,6,173,F-7,7,"Laundry, gym, parking",3698133129,Well-maintained building near diplomatic enclave
+275,Modern Flat DHA Phase 2 #1,85158283,Apartment,3,236,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3580379333,Spacious 3-bed with modern kitchen and balcony views
+276,Flat in I-8 Sector #41,28324035,Apartment,6,148,I-8,8,"Backup electricity, CCTV",3627924199,Affordable housing with basic amenities
+277,Luxury House Bahria Town #81,136220872,House,4,472,Bahria Town,7,"Mention, garden, servant quarters",3149190940,Corner plot house with lush lawn and modern architecture
+278,House in Margalla Hills #83,202542999,House,3,569,Margalla Hills,NA,"Mountain view, large garden",3107860697,Luxury hillside property with panoramic views
+279,Shop in F-10 Markaz #83,69655897,Commercial,2,125,F-10,10,"Main road frontage, storage area",3590336263,Prime retail space in popular shopping area
+280,Modern Flat DHA Phase 2 #41,94850749,Apartment,3,241,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3832277529,Spacious 3-bed with modern kitchen and balcony views
+281,Plot in DHA Phase 5 #36,83444060,Plot,NA,287,DHA Phase 5,5,"Park facing, approved layout",3659468996,Premium residential plot in gated community
+282,Luxury Villa Bahria Town #85,136227981,House,5,765,Bahria Town,8,"Private pool, home theater",3103643349,Ultra-modern villa with smart home features
+283,Luxury Villa Bahria Town #100,153238289,House,5,724,Bahria Town,8,"Private pool, home theater",3931938393,Ultra-modern villa with smart home features
+284,Plot in CDA Sector H-8 #71,57056517,Plot,NA,227,H-8,8,Main boulevard access,3788563712,Well-located residential plot
+285,Affordable Flat F-11 #32,32892289,Apartment,5,176,F-11,4,"Backup generator, mosque nearby",3772895498,Cozy 2-bed apartment near main boulevard
+286,Flat in G-13 #43,24569250,Apartment,1,167,G-13,13,"Backup power, security",3659598668,Budget-friendly option in developing sector
+287,Commercial Plaza Blue Area #49,417037497,Commercial,2,784,Blue Area,NA,"Central AC, elevator, parking",3785482157,Prime location commercial space with high foot traffic
+288,Affordable Flat F-11 #62,39736259,Apartment,4,177,F-11,4,"Backup generator, mosque nearby",3954050529,Cozy 2-bed apartment near main boulevard
+289,Showroom in Super Market #15,93239825,Commercial,5,188,Super Market,NA,"High visibility, parking",3347925926,Ideal for retail business in busy market
+290,Modern Flat DHA Phase 2 #50,86418535,Apartment,5,235,DHA Phase 2,7,"Swimming pool, gym, 24/7 security",3606911539,Spacious 3-bed with modern kitchen and balcony views
+291,House in Margalla Hills #59,199782201,House,4,611,Margalla Hills,NA,"Mountain view, large garden",3231578122,Luxury hillside property with panoramic views
+292,Agricultural Land Zone 4 #99,24944458,Land,NA,1098,Zone 4,NA,"Fertile soil, water access",3749669922,Suitable for farming or development
+293,Shop in F-10 Markaz #55,69266452,Commercial,3,127,F-10,10,"Main road frontage, storage area",3779830316,Prime retail space in popular shopping area
+294,Shop in F-10 Markaz #61,68257159,Commercial,1,114,F-10,10,"Main road frontage, storage area",3492281823,Prime retail space in popular shopping area
+295,Agricultural Land Zone 4 #44,27927915,Land,NA,927,Zone 4,NA,"Fertile soil, water access",3283671490,Suitable for farming or development
+296,Affordable Flat F-11 #63,34387038,Apartment,3,196,F-11,4,"Backup generator, mosque nearby",3641973917,Cozy 2-bed apartment near main boulevard
+297,Plot for Sale E-7 #53,70711438,Plot,NA,217,E-7,NA,"Corner plot, possession certificate",3253360186,Residential plot with clear ownership documents
+298,Showroom in Super Market #27,88264922,Commercial,1,198,Super Market,NA,"High visibility, parking",3541421061,Ideal for retail business in busy market
+299,Luxury Villa Bahria Town #48,166585153,House,4,718,Bahria Town,8,"Private pool, home theater",3299476279,Ultra-modern villa with smart home features
+300,Showroom in Super Market #71,92152830,Commercial,5,183,Super Market,NA,"High visibility, parking",3991524974,Ideal for retail business in busy market
